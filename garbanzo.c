@@ -8,5 +8,6 @@ void main(void)
   printf("Hello Italy");
   /* test 15 maggio 2020 h 14:27 */
   printf("Test first build in AWS");
+  printf("Test first build in AWS");
   
 }
